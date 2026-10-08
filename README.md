@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ahsly</h1>
-<h3 align="center">A passionate Software and DevOps Engineer, Helper, Bilingual and Coder</h3>
+<h1 align="center">Hi , I'm Ahsly</h1>
+<h3 align="center">A passionate graphic designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandgo&label=Profile%20views&color=0e75b6&style=flat" alt="juandgo" /> </p>
 
-**I'm a fullstack software developer engineer with solid experience in designing, developing, and maintaining IT solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.**
+**I am a graphic designer who dreams of becoming an animator and illustrator in the digital art industry.**
 
 -----
 
-:computer: **Software Engineer**  
-:eyeglasses: **Hardcore Geek (is geek still used?)**  
-:oncoming_automobile: **SpaceX, technology, and simulator fan**  
+:computer: **graphic designer**  
+:eyeglasses: ****  
+:oncoming_automobile: ****  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
