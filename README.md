@@ -7,7 +7,7 @@
 -----
 
 **graphic designer**  
- ** Ilustrator Photoshop Corel Draw**  
+ **Ilustrator, Photoshop, Corel Draw**  
  **ILustracion digital**  
 
 <h3 align="left">Connect with me:</h3>
