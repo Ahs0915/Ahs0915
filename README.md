@@ -1,15 +1,14 @@
 <h1 align="center">Hi , I'm Ahsly</h1>
 <h3 align="center">A passionate graphic designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juandgo&label=Profile%20views&color=0e75b6&style=flat" alt="juandgo" /> </p>
 
 **I am a graphic designer who dreams of becoming an animator and illustrator in the digital art industry.**
 
 -----
 
-:computer: **graphic designer**  
-:eyeglasses: ****  
-:oncoming_automobile: ****  
+**graphic designer**  
+ ** Ilustrator, Photoshop, Corel Draw**  
+:oncoming_automobile: **ILustracion digital**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
