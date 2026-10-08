@@ -8,7 +8,7 @@
 
 **graphic designer**  
  ** Ilustrator, Photoshop, Corel Draw**  
-:oncoming_automobile: **ILustracion digital**  
+ **ILustracion digital**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
